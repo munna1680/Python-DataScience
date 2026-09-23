@@ -21,6 +21,15 @@
 # my-var = "Munna"
 # my var = "Munna"
 
-x, y , z = 5, "Munna", 4.00
+# x, y , z = 5, "Munna", 4.00
 
-print(x, y, z)
+# print(x, y, z)
+
+# fruits = ["apple", "banana", "orange"]
+
+# print(fruits)
+
+# fruits =["apple", 4, "banana"]
+
+# print(fruits[0])
+
